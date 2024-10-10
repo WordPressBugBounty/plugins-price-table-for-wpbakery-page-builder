@@ -1,0 +1,1 @@
+# plugins-price-table-for-wpbakery-page-builder
